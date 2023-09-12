@@ -1,7 +1,7 @@
 ## Perfil de Marcos Dinei
 
 ### Seja bem vindo(a)!
-Tenho 25 anos, sou amante da tecnologia e da informática, gosto de programar desde os 15. Começando a atuar no mercado, sempre buscando experiência e novos conhecimentos!
+Tenho 26 anos, sou amante da tecnologia e da informática, gosto de programar desde os 15. Começando a atuar no mercado, sempre buscando experiência e novos conhecimentos!
 
 🧑‍💻 Atualmente trabalho como desenvolvedor full stack no [GCTI](https://gcti.parnamirim.rn.gov.br/)
 
