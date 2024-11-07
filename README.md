@@ -1,11 +1,9 @@
 ## Perfil de Marcos Dinei
 
 ### Seja bem vindo(a)!
-Tenho 26 anos, sou amante da tecnologia e da informática, gosto de programar desde os 15. Começando a atuar no mercado, sempre buscando experiência e novos conhecimentos!
+Tenho 27 anos, sou amante da tecnologia e da informática, gosto de programar desde os 15. Com mais de 3 anos de experiência no mercado, sempre em busca de novos conhecimentos!
 
-🧑‍💻 Atualmente trabalho como desenvolvedor full stack no [GCTI](https://gcti.parnamirim.rn.gov.br/)
-
-📚 Próximas tecnologias a serem estudadas: React e NodeJS
+🧑‍💻 Atualmente trabalho como desenvolvedor na [ZRP](https://gcti.parnamirim.rn.gov.br/)
 
 🎮 No meu tempo livre, gosto de games, futebol e assistir filmes ou séries
 
@@ -14,11 +12,10 @@ Tenho 26 anos, sou amante da tecnologia e da informática, gosto de programar de
 </div>
 
 ### 🖥️ Tecnologias
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Badge](	https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📞 Contatos
